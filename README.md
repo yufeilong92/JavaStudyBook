@@ -822,7 +822,8 @@ ao_bing@foxmail.com
 <a href="https://github.com/cnLGMing">  
     <img src="https://avatars2.githubusercontent.com/u/15910705?s=460&v=4" width="45px">
 </a>
-![](https://tva1.sinaimg.cn/large/007S8ZIlly1ge4xvdlh0wj30zk0d1q6d.jpg)
+![](https://tva1.sinaimg.cn/large/0082zybply1gcb2u3keh9j30p02j4h2r.jpg)
+![](https://tva1.sinaimg.cn/large/007S8ZIlgy1gf8flovpg1j30u07l7hdx.jpg)
 
 
 
